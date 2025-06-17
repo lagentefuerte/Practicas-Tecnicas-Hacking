@@ -6,7 +6,7 @@ This repository showcases two hands-on projects focused on **low-level system ex
 
 ## 🔐 Projects Included
 
-### `spectre-meltdown-lab/`
+### `Spectre&Meltdown/`
 A complete implementation of **Spectre** and **Meltdown** attacks, including:
 
 - A custom Linux kernel module that exposes secret data via `/proc`.
@@ -23,7 +23,7 @@ This project demonstrates:
 
 ---
 
-### `buffer-overflow-lab/`
+### `buffer_overflow/`
 A classic **stack-based buffer overflow** exploit chain, including:
 
 - A vulnerable C program (`stack.c`) with an unsafe `strcpy()` call.
